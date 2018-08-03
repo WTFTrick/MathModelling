@@ -20,3 +20,7 @@ http://www.qcustomplot.com/
 ```
 http://gososkov.ru/UNI-DUBNA/handbook MathModelling.docm
 ```
+=======
+# MathModelling
+Mathematic modelling project, using QT + QCustomPlot
+
